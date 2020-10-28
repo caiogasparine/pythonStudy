@@ -13,5 +13,4 @@ First commands using Python 3.7 / 3.8 / 3.9
   6 - Boolean Operators 
   7 - Logical Operators 
 ```
-2019 // Barrie, Ontario, Canada 
-[caio gasparine](https://www.linkedin.com/in/caiogasparine/) for more info.
+2019 // Barrie, Ontario, Canada // [caio gasparine](https://www.linkedin.com/in/caiogasparine/) for more info.
